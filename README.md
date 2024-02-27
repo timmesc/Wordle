@@ -1,10 +1,10 @@
 # Wordle
 
-# Project 1 - *Name of App Here*
+# Project 1 - Wordle
 
-Submitted by: **Your Name Here**
+Submitted by: Charles Timmes
 
-**Name of your app** is an app that ... [TODO] 
+Wordle is an app that assigns a random word for each launched session. This word can be typed by a user and the app will represent the letters used in the word of the day throughout each word guessed.
 
 Time spent: 1.5
 
